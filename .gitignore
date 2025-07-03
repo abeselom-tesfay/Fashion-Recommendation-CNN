@@ -21,3 +21,11 @@ models/
 
 # Images
 images/
+
+# Ignore pickle files
+*.pkl
+
+# Ignore VS Code settings
+.vscode/
+*.pkl
+.vscode/
