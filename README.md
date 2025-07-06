@@ -12,21 +12,28 @@ The goal is to help users discover visually similar fashion products by uploadin
 
 ## 🧠 Technologies Used
 
-- **TensorFlow / Keras** – For feature extraction using ResNet50
-- **Scikit-learn** – KNN algorithm for nearest neighbor search
-- **Streamlit** – To build the web-based user interface
-- **Python** – Core development language
+- **TensorFlow / Keras** – For feature extraction using ResNet50  
+- **Scikit-learn** – KNN algorithm for nearest neighbor search  
+- **Streamlit** – To build the web-based user interface  
+- **Python** – Core development language  
 
 ---
 
 ## 🚀 How It Works
 
-1. User uploads a fashion item image.
-2. The CNN model extracts visual features from the image.
-3. KNN compares these features with the dataset.
+1. User uploads a fashion item image.  
+2. The CNN model extracts visual features from the image.  
+3. KNN compares these features with the dataset.  
 4. Top 5 visually similar products are displayed as recommendations.
 
 ---
 
-## 📂 Project Structure
+## 📂 Dataset
 
+The dataset used in this project consists of fashion product images, sourced from Kaggle. It provides a diverse set of clothing items suitable for training a content-based recommendation system.
+
+🔗 [Fashion Product Dataset on Kaggle](https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-small)
+
+*Note: You must have a Kaggle account and accept the terms to access the dataset.*
+
+---
