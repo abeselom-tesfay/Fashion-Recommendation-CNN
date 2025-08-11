@@ -6,8 +6,9 @@ This project is an advanced deep learning-based content-based image recommendati
 
 ### Overview
 
-The goal is to help users discover visually similar fashion products by uploading an image. This can be integrated into e-commerce platforms to enhance product discovery and improve user experience through fast and accurate visual recommendations.
+- The goal is to help users discover visually similar fashion products by uploading an image. This can be integrated into e-commerce platforms to enhance product discovery and improve user experience through fast and accurate visual recommendations.
 
+- I integrated this system with my e-commerce platform to improve product discovery and enhance the overall shopping experience.
 
 ----
 
